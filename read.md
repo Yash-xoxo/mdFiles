@@ -1,5 +1,5 @@
 [See Advanced Markdown Syntax](advance.md)
-
+---
 # mdFiles
 
 # Markdown Showcase
@@ -85,5 +85,5 @@ To change directories, use the `cd` command.
 ```bash
 npm install
 ```
-
+------
 [See Advanced Markdown Syntax](advance.md)
