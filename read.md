@@ -10,6 +10,25 @@ This README demonstrates **all common Markdown syntax** in one place for easy re
 
 ## ✍️ Text Formatting
 
+
+# Heading 1 SIZE1
+
+
+## Heading 2 SIZE2
+
+
+### Heading 3 SIZE3
+
+
+#### Heading 4 SIZE4
+
+
+##### Heading 5 SIZE5
+
+
+###### Heading 6 SIZE6
+
+
 **Bold Text**  
 *Italic Text*  
 ***Bold and Italic Text***  
