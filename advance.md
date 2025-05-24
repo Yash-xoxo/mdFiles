@@ -1,5 +1,6 @@
 [See Advanced Markdown Syntax](read.md)
 
+---
 # Advanced Markdown Syntax (GitHub Flavored Markdown – GFM)
 
 This file demonstrates advanced features of Markdown, including GitHub-specific extensions and uncommon formatting tricks.
@@ -35,5 +36,6 @@ Referencing an issue or pull request by number:
 ```md
 :smile: :rocket: :+1:
 ```
+
 
 [See Advanced Markdown Syntax](read.md)
